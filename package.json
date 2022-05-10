@@ -34,7 +34,19 @@
     "@wdio/types": "^7.19.5",
     "log4ts": "^0.4.2",
     "npm-check-updates": "^12.5.11",
+    "randomstring": "^1.2.2",
     "typescript-logging": "^2.0.1",
     "wdio-video-reporter": "^3.2.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kruthika24/automation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kruthika24/automation/issues"
+  },
+  "homepage": "https://github.com/kruthika24/automation#readme"
 }
